@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        printMessage("Hello World!");
+        printMessage("Hello World!!");
         printSum(5, 5);
     }
 
